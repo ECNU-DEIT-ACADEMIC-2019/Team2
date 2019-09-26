@@ -1,6 +1,7 @@
 **Analysis of KEKE English**  
   
-**0、	Brief Introduction about KEKE English**    
+**0、	Brief Introduction about KEKE English** 
+  #### &#8195;&#8195;KEKE English as an English learning platform products in order to improve English level in all directions, with a rich selection of learning resources, supporting the operation such as offline learning, reciting words, listening, speaking and reading training, also has regularly reminded and learning record synchronization of cloud, clock in sharing, keke beans to exchange gifts, and other functions, from listening, speaking, reading and writing the omni-directional to provide users with a complete English learning experience.
 
  ----------------------------------------    
 >**1 Environment**    
