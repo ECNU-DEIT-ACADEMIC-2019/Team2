@@ -1,9 +1,6 @@
 **Analysis of KEKE English**  
   
->**0 Brief Introduction about KEKE English** 
-  #### &#8195;&#8195;KEKE English as an English learning platform product in order to improve English level in all directions, with a rich selection of learning resources, supporting the operation such as offline learning, reciting words, listening, speaking and reading training, also has regularly reminded and learning record synchronization of cloud, clock in sharing, keke beans to exchange gifts, and other functions, from listening, speaking, reading and writing the omni-directional to provide users with a complete English learning experience.
-    
-  #### &#8195;&#8195;First of all, our group used questionnaire survey the users’ usage scenarios, user experience, learning effect and so on about KEKE English. Then, we combine the questionnaire survey result, from the Environment, Knowledge, Skills, Attitude, behaviors, Interaction, Experience, Interact object six aspects to introduction and analysis KEKE English product, and put forward the corresponding improvements.
+**0、	Brief Introduction about KEKE English**    
 
  ----------------------------------------    
 >**1 Environment**    
@@ -204,7 +201,7 @@ In this section, we discuss manner and media of KEKE English platform including 
    
    
   ----------------------------------------  
->**7 Appendix**  
+>**7 Reference**  
 [1] 谢乾平.基于手机教育类APP优化学生泛在化学习策略[J].福建基础教育研究,2019(07):136-137.  
 [2] 于莎, 刘奉越. 成人参与在线学习共同体意愿的内在影响机制——基于目标导向行为理论和自我决定理论微视角[J]. 现代远程教育研究, 2018, 155(05):88-96.  
 [3] 马俊臣. 运用学习分析提升远程学习效能感的可行性方式探析[J]. 中国成人教育, 2017(4):18-21.  
@@ -215,4 +212,215 @@ In this section, we discuss manner and media of KEKE English platform including 
 [8] 王云楼,张一春.在线学习社区中教师参与度的提升策略[J].教育科学论坛,2018(16):59-62.
 
   ----------------------------------------  
->**8 References**  
+>**8 Appendix**
+   >>**The questionnaire about KEKE English**
+#### &#8195;&#8195;  Hello! Thank you for participating in this survey. With the development of the Internet, the field of education has begun to pay more attention to the implementation of digital learning. This survey is conducted anonymously and will not affect you adversely. Please fill in the questionnaire carefully and objectively. Your answers are important for us. I’ll appreciate it if you can help us complete the survey questionnaire. Thank you for your cooperation!
+Have you used KEKE English? [Multiple choice questions] *
+
+○ yes
+
+○ No (the questionnaire is over, thank you for your participation) (please skip to the end of the questionnaire and submit the answer sheet)
+###### Environment
+What kind of equipment do you use when you study in KEKE English? [Multiple choice questions] *
+
+○Mobile phone
+
+○Computer
+
+Where do you usually use KEKE English for study? [Multiple choice questions] *
+
+□Classroom
+
+□Library
+
+□Dormitory
+
+□Others
+
+###### Knowledge
+Which aspect of English would you like to improve through KEKE English? [Multiple topics]*
+
+□Word Memory
+
+□English speaking
+
+□English Reading
+
+□English Writing
+
+□English Conversation
+
+□English listening
+
+□Others
+
+What is the purpose of your study in KEKE English? [Multiple choice questions] *
+
+□ Entrance examination
+
+□ CET4\CET6
+
+□ English professional certificate exam
+
+□ Study abroad
+
+□ personal interest
+
+□ Improve work, professional skills
+
+□ Others
+###### Behavior 
+What kind of ability does KEKE build for your English study now?[Multiple choice questions] *
+
+□ word memory
+
+□ English speaking
+
+□ English reading
+
+□ English writing
+
+□ English conversation
+
+□ English listening
+
+□ Others
+
+How do you evaluate for the effect of KEKE English? [matrix scale question] *
+
+Memory validity	
+
+The fun of learning
+
+The Comprehension of content	
+
+The abundance of application	
+###### Interaction 
+Which type do you prefer to study in KEKE English? [Multiple Choices]*
+
+□E-book and article reading
+
+□Learning through Courses
+
+□Entertainment products (talk shows, English speeches, documentaries)
+
+□Community Dynamic Learning
+
+□Others
+
+How often do you use KEKE English to learn English?*
+
+□Study every day
+
+□Study 2-3 times a week
+
+□More than three times a month
+
+□Less frequent use of the software for learning
+###### Experience
+What is the reason for your English learning with KEKE English? [Multiple choice questions] *
+
+□English knowledge is abundant
+
+□The function modules are classified clearly and easy to operate.
+
+□Interesting English learning method
+
+□Learning record is kept
+
+□Free resources
+
+□It can be combined with textbooks
+
+□Others
+
+Do you think what is the problem of KEKE English? [Multiple choice questions] *
+
+□ The course price is not reasonable
+
+□ The interface design is not friendly
+
+□ Cannot add QQ or WeChat friends
+
+□ too many advertisements
+
+□ Incomplete English resources
+
+□ English resources are incorrect
+
+□ Learning mode does not conform to the law of human cognition
+
+□ The platform useing experience is not good (frequent flashback, stuck, lost learning records, etc.)
+
+□ Others
+###### Interact object
+Your frequency of dynamic activity is [multiple choice questions] *
+
+○Interact every day
+
+○Interact when studying
+
+○Interact when I have problems
+
+○seldom interact
+
+
+○Never interact
+
+How do you evaluate for KEKE's dynamic social features? [Matrix Scale Question] *
+
+Dynamic member	
+
+Dynamic atmosphere	
+
+Dynamic impact on learning outcomes	
+
+Have you joined the KEKE English class? [Multiple choice questions] *
+
+○joined
+
+○Not joined (please skip to question 17)
+
+Your interactive frequency in the class is [multiple choice questions] *
+
+○Interact every day
+
+○Interact when studying
+
+○Interact when I have problems
+
+○seldom interact
+
+○Never interact
+
+How do you evaluate for KEKE English class? [Matrix Scale Question] *
+
+Class members	
+
+Class atmosphere
+
+The effect of class on learning outcomes	
+
+In addition to KEKE English, which language education product do you like to use(including but not limited to” 扇贝、百词斩、英语流利说、沪江开心词场、英语趣配音”) [matrix text questions] *
+
+Word memory	________________________
+
+Word translation	________________________
+
+English listening	________________________
+
+English speaking	________________________
+
+English writing	________________________
+
+English reading	________________________
+
+Comprehensive product	________________________
+
+Community	________________________
+
+Question bank	________________________
+
+others	________________________
+
+
