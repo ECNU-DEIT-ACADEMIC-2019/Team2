@@ -13,6 +13,8 @@ Learners are pleased to learn in an informal learning environment that is not li
    >>**1.1.2 Time freedom**   
   Learners don’t have to study it at a regular time. They can make good use of their fragmented time. For example, when they are waiting in line in cafeteria or when they are waiting for a bus, they can all read English article or remember word. What's more,  if they come across words or sentences that they can't understand in daily life or study, they can use KEKE English to translate it in time.   
    
+   >>**1.2 Suggestion**  
+   //在这里写建议
 ### 2 Knowledge，Skill and Attitude
 ### 3 Behaviors
 ### 4 Interaction
