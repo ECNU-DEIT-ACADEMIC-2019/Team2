@@ -66,7 +66,7 @@
 
   &#8195;&#8195;What’s more, KEKE English provides a large amount of daily speaking content and a wide range of listening materials, including news, songs, sports, film and television. It helps learners understand the topic of a discussions and memorize the key points, identify different emotions expressed by different tones, use appropriate intonation and rhythm to express personal intentions in communication through different categories and topic contexts. At the same time, in order to improve the learning competence of listening, speaking, reading and writing, learners are encouraged to accumulate vocabulary of daily life, personal interest, custom, culture of science, community life, such as job, festivals, social etiquette.  
 
-<div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/environment-21.jpg" height="180" width="480" > </div>  
+<div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/environment-21.jpg" height="280" width="150" > </div>  
 
    >>**2.1.3 Enhance interests in English learning**    
    &#8195;&#8195;There is a big difference between Chinese and English, the improvement of cognitive level about English culture can promote the sublimation of students’ emotional attitude towards English, thus improving the English learning effect.  Through some interesting sections, like ‘Good morning English’, ‘Summer English reading’, ‘Learn English and travel around the word’, KEKE English increases learners’ knowledge of English culture. In the meanwhile, through ‘the training of nine-word puzzle’, ‘single dictation to eliminate the blind corner’, ‘back words to earn beans for gifts’ and other forms with gamification, KEKE English can stimulate the interests of learning English, so learners can improve their English learning effect.  
@@ -78,7 +78,8 @@
    &#8195;&#8195;**(2)**  Secondly, the details of the KEKE English words page just contains “Chinese explanations”, “mnemonic”, “example sentence”, which looks slightly boring. It can add “English explanations”, “picture association”, “synonyms” and other functions, so it can make the best memories.  
    &#8195;&#8195;**(3)**  Thirdly, it should allow two or more types of word books to be studied at the same time. Because many exams timetable are close and need to prepare at the same time.  
    &#8195;&#8195;**(4)**  English pronunciation practice is only available on the official website, but not on the mobile phone. Nearly 90% of learners are using it on the mobile phone. So it should add this module on the mobile phone.  
-   
+
+ ----------------------------------------     
    
  >**3 Behaviors**    
    >>**3.1 Analysis**  
