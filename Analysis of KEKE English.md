@@ -32,7 +32,7 @@ Learners are pleased to learn in an informal learning environment that is not li
    >>**3.1 Analysis**  
       
 
-   >>**3.1.1 **   
+   >>**3.1.1 e** 
     
    
    >>**3.1.2 m**   
@@ -44,7 +44,7 @@ Learners are pleased to learn in an informal learning environment that is not li
    >>**4.1 Analysis**  
       
 
-   >>**4.1.1 **   
+   >>**4.1.1 e** 
     
    
    >>**4.1.2 m**   
@@ -56,7 +56,7 @@ Learners are pleased to learn in an informal learning environment that is not li
    >>**5.1 Analysis**  
       
 
-   >>**5.1.1 **   
+   >>**5.1.1 e** 
     
    
    >>**5.1.2 m**   
@@ -68,7 +68,7 @@ Learners are pleased to learn in an informal learning environment that is not li
    >>**6.1 Analysis**  
       
 
-   >>**6.1.1 **   
+   >>**6.1.1 e** 
     
    
    >>**6.1.2 m**   
