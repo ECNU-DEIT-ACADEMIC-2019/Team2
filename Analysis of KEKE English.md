@@ -62,7 +62,7 @@
   &#8195;&#8195;Listening, speaking, reading and writing fluently and quickly is a very important skill goal for English learning. But it’s a common problem for most people to speak English bravely. KEKE English sets up some sections to train learners’ skills of listening、speaking、reading and writing, such as ‘Radio listening’, ‘Dictation training’, ‘Situational dialogue’, ‘Dictation training’, ‘Oral English show’, ‘Composition modification’ , etc. In addition, it has user-friendly mode settings, including ‘Intensive listening’, ‘Listen and repeat’, ‘Loop playback’, ‘Speed variation’. And it makes the users speak boldly and read accurately. 
   
 <div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/environment-19.jpg" height="180" width="480" > </div>  
-<div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/environment-20.jpg" height="180" width="480" > </div>  
+<div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/environment-20.jpg" height="300" width="300" > </div>  
 
   &#8195;&#8195;What’s more, KEKE English provides a large amount of daily speaking content and a wide range of listening materials, including news, songs, sports, film and television. It helps learners understand the topic of a discussions and memorize the key points, identify different emotions expressed by different tones, use appropriate intonation and rhythm to express personal intentions in communication through different categories and topic contexts. At the same time, in order to improve the learning competence of listening, speaking, reading and writing, learners are encouraged to accumulate vocabulary of daily life, personal interest, custom, culture of science, community life, such as job, festivals, social etiquette.  
 
@@ -161,3 +161,10 @@
    For example, for encouraging learners to interact and creating a positive learning atmosphere, cocoa beans can be awarded to learners who have received more than 20 likes.  
    
    
+ 
+>**7 References**  
+[1] 谢乾平.基于手机教育类APP优化学生泛在化学习策略[J].福建基础教育研究,2019(07):136-137.  
+[2] 于莎, 刘奉越. 成人参与在线学习共同体意愿的内在影响机制——基于目标导向行为理论和自我决定理论微视角[J]. 现代远程教育研究, 2018, 155(05):88-96.  
+[3] 马俊臣. 运用学习分析提升远程学习效能感的可行性方式探析[J]. 中国成人教育, 2017(4):18-21.  
+[4] 宋兵. 基于目标理论的协作学习平台设计[J]. 软件导刊(教育技术), 2008(9):43-44.  
+[5] 杨明辉.在线情境下的语言学习绩效研究[J].黑龙江工业学院学报(综合版),2019,19(07):13-18.  
