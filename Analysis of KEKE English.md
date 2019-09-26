@@ -149,13 +149,11 @@ In this section, we discuss manner and media of KEKE English platform including 
  
    >>**5.1.1 Accessibility** 
   #### &#8195;&#8195; Massive learning content and covering a wide range of content. Keke English have a lots of materials about videos, articles, words bank and so on. Most of the content is free, and even paid or VIP services can earn “cocoa beans” for exchanging materials.  
-  <div align="center">
-  <img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/experience1.jpg" height="300" width="480" > 
-  <img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/experience2.jpg" height="300" width="480" ></div>  
+  <div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/experience1.jpg" height="280" width="150" >         <img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/experience2.jpg" height="280" width="150" ></div>  
   
   #### &#8195;&#8195; The classification of the learning content on the homepage is detailed, and learners can choose these different materials according to the needs and purposes of learning.  
   #### &#8195;&#8195; The computer phone can synchronize the vocabulary, the collection record and the browsing history, but the learning progress of the Android system and the ios system are not synchronized. For example, the user has completed 200 levels in the Android system. After switching to the ios system, the user need to re-start from scratch, which seriously affects the user’s learning experience.  
-  <div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/experience3.jpg" height="300" width="480" ></div>  
+  <div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/experience3.jpg" height="280" width="150" ></div>  
   
    #### &#8195;&#8195;The mobile phone system environment is unstable. For example, the latest version of ios can't log in the account, and sometimes this app don’t recognize the phone connected wifi.   
   #### &#8195;&#8195; However, some functions are not set to be self-contained. For example, the number of words in the task of memorizing words is set by the system, each level of 15 words, so the users cannot modify by themselves.  
@@ -163,20 +161,20 @@ In this section, we discuss manner and media of KEKE English platform including 
    >>**5.1.2 Availability**   
    ####  &#8195;&#8195;The effectiveness of keke English is mainly analyzes from learning and test results and learning feedback.   
    #### &#8195;&#8195; From the comments of the software store, we find that many learners think that the content of coco English is rich in content, and can be used to train listening, speaking, reading and writing skills, in order to improve the overall English ability.  
-  <div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/experience4.jpg" height="300" width="480" ></div>  
+  <div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/experience4.jpg" height="300" width="500" ></div>  
   
  ####   &#8195;&#8195; Keke English has an Intelligent English scoring system, which can test leaner’s listening and speaking skill and give scores to test their learning performance. But this test feedback system is enough, perhaps the corresponding error correction scheme should be presented here.  
-   <div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/experience5.jpg" height="300" width="480" ></div>  
+   <div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/experience5.jpg" height="280" width="300" ></div>  
    
    >>**5.1.3 Happiness**  
 ####  &#8195;&#8195; Happiness refers to the feeling of learners during and after the learning.  
  ####  &#8195;&#8195; In this respect, keke English has set up an incentive mechanism to help learners enhance their sense of achievement in learning. For example, after going though mission twice, the user can punch the card to earn “cocoa beans”, which can be used to exchange VIP, courses and so on. In addition, users can view the ranking from the list and interact with other users, which can stimulate their desire to challenge and promote continuous learning.  
  #### &#8195;&#8195; In terms of content settings, coco English set a lot of interesting learning materials. Such as, radio blogs, bilingual video, movies and songs. Thses can attract learners' attention through speech skills and video music, and improve the happiness of the learning process to enhance the learning effect.  
-  <div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/experience6.jpg" height="300" width="480" ></div>  
+  <div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/experience6.jpg" height="280" width="300" ></div>  
    
    >>**5.2 Suggestion**  
   #### &#8195;&#8195; We have also conducted a questionnaire survey on the user's learning experience. The above are the directions in which learners think keke English will reduce their learning experience. Based on these directions and the analysis of our group, the following Suggestions are given.  
-   <div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/experience7.jpg" height="150" width="400" ></div>  
+   <div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/experience7.jpg" height="300" width="500" ></div>  
    
    >>**5.2.1 strengthen the part that users can set**
 #### &#8195;&#8195;  Because each person's learning ability and habits are different, so it is suggested the maximum degree of autonomy, let learners set learning plan, so that learners can control the learning progress by themselves.  
@@ -199,18 +197,18 @@ In this section, we discuss manner and media of KEKE English platform including 
    >>**6.1.1 human-machine interaction** 
 #### &#8195;&#8195;  The main technology in human-machine interaction is speech recognition, which is used to identify learners' spoken language and give scores. Keke English let students to choose the degree of difficulty, purpose of learning etc, and recommend learning resources suitable for learners’ level according to these options. But for keke English in terms of human-machine interaction, its unilateral output of knowledge is more, and its design of keke English is less.  
  <div align="center">
-  <img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/interact object1.jpg" height="300" width="480" > 
-  <img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/interact object2.jpg" height="300" width="480" ></div>  
+  <img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/interact object1.jpg" height="280" width="300" > 
+  <img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/interact object2.jpg" height="280" width="150" ></div>  
    
    >>**6.1.2 human-human interaction**   
  #### &#8195;&#8195;  In the part of human-human interaction, The main interaction objects are teachers and similar learners in keke English. Interaction with teachers mainly use the function of class. Interaction with learners frequently use discussion groups and dynamic to interact. These functions can simulate the real classroom environment.  
 #### &#8195;&#8195;  The function of class is expounded in the section of interaction, so that won't be covered again here. In the learner interaction, learners can discuss relevant knowledge in a discussion group, which is the same as forum. Dynamic is similar to WeChat circle of friends, which is used to show the results after punching in. However, the dynamic function only opens the "like" function, and cannot comment.  
-<div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/interact object3.jpg" height="300" width="480" ></div>  
+<div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/interact object3.jpg" height="280" width="150" ></div>  
 
  #### &#8195;&#8195; According to the results of the questionnaire, keke English has a relatively poor design of interaction. Sixty percent had little or no interaction, and those who interacted had a "average" attitude about its function.  
  <div align="center">
   <img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/interact object4.jpg" height="200" width="400" > 
-  <img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/interact object5.jpg" height="200" width="400" ></div>
+  <img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/interact object5.jpg" height="200" width="500" ></div>
    
    >>**6.2 Suggestion**  
    >>**6.2.1 add the function of comment**  
