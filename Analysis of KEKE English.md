@@ -1,7 +1,8 @@
 **Analysis of KEKE English**  
   
 **0、	Brief Introduction about KEKE English**    
-  
+
+ ----------------------------------------    
 >**1 Environment**    
    >>**1.1 Analysis**  
    &#8195;&#8195;Ubiquitous learning is an important way of learning in life-long learning society. The development of information technology provides a broader space for ubiquitous learning[1]. More and more people tend to adopt E-learning to achieve life-long learning. Informal learning communities based on network can solve the problem existing in traditional learning, such as time and space limited, using resources difficulty[2]. 
