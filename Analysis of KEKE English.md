@@ -36,13 +36,13 @@
 
    >>**2.1.1 Support language knowledge learning**   
    &#8195;&#8195;Pronunciation, vocabulary and grammar are the basis and guarantee of mastering a language systematically. For language learning, knowledge mastery refers to learners' mastery of common grammar, vocabulary and discourse structure. Some efforts have been made in language, vocabulary and grammar by KEKE English.  
-   **（1）Various pronunciation exercises**   
+   **Various pronunciation exercises**   
    &#8195;&#8195;KEKE English has rich practice of pronunciation, including“Practice pronunciation every day”、“English pronunciation lecture”、“The word pronunciation of words that easy to read wrong”、“Phonetic symbol formula memory” , etc. That all help students to learn basic English pronunciation more quickly.  
  
  <div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/environment-9.jpg" height="200" width="480" > </div>  
 <div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/environment-10.jpg" height="200" width="480" > </div>  
 
-   **（2）Rich in vocabulary**   
+   **Rich in vocabulary**   
    &#8195;&#8195;The recitation module of KEKE English has some advantages: rich vocabulary, various recitation mode and interaction. Firstly, KEKE English has much word-book for all grades, such as primary school、CET、Ielts、toefl, etc. Secondly, its word-book is not only a comprehensive collection of words, the interpretation to a word is accurate. And it provides roots、synonyms to help the students to learn.  
  
  <div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/environment-11.jpg" height="280" width="150"/>         <img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/environment-12.jpg" height="280" width="150"/></div>  
@@ -51,7 +51,7 @@
 
 <div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/environment-13.jpg" height="280" width="150"/>         <img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/environment-14.jpg" height="280" width="150"/></div>  
    
-   **（3）All-round grammar**   
+   **All-round grammar**   
     &#8195;&#8195;KEKE English not only contain different language rules, such as tense、voice、 mood、sentence composition、part of speech, but also covers grammar lessons at different ages and stages of knowledge. And those’re all presented it by micro video, which makes learners easy to understand.  
     
 <div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/environment-15.jpg" height="180" width="480" > </div>  
