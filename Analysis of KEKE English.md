@@ -25,7 +25,7 @@
 <div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/environment-5.jpg" height="200" width="480" > </div>  
 <div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/environment-6.jpg" height="200" width="480" > </div>  
 
- 
+ ----------------------------------------     
  >**2 Knowledge，Skill and Attitude**    
    >>**2.1 Analysis**  
    &#8195;&#8195;E-learning platform designer need to consider what will the learner learn. Maybe they learn knowledge、skills or some attitude. The goals that meet the principle : zone of proximal development, can inspire learning behavior most. Junchen Ma believes that in order to ensure the continuous role of self-efficacy in the online learning process, the setting of learning goals should be clear, specific and moderately difficult[3] The research shows that the teaching objectives setting according to learners' own specific situation can be better to stimulate learners' learning motivation and achieve more better learning effect[4]. Online English learning should recommend suitable learning resources for learners based on their pre-planned time requirements, and aiming at learners' preference for different types of learning resources and adaptability to the difficulty level of learning resources[5].   
