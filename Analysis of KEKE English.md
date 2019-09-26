@@ -4,27 +4,27 @@
   
 >**1 Environment**    
    >>**1.1 Analysis**  
-   Ubiquitous learning is an important way of learning in life-long learning society. The development of information technology provides a broader space for ubiquitous learning[1]. More and more people tend to adopt E-learning to achieve life-long learning. Informal learning communities based on network can solve the problem existing in traditional learning, such as time and space limited, using resources difficulty[2]. 
+   &#8195;Ubiquitous learning is an important way of learning in life-long learning society. The development of information technology provides a broader space for ubiquitous learning[1]. More and more people tend to adopt E-learning to achieve life-long learning. Informal learning communities based on network can solve the problem existing in traditional learning, such as time and space limited, using resources difficulty[2].  
 Learners are pleased to learn in an informal learning environment that is not limited by time or place. To meet learner’s needs best, KEKE English has made some efforts and it has great advantages in learning environment, mainly including space flexible, time freedom.  
 
    >>**1.1.1 Space flexible**   
-   As an E-learning platform, KEKE English enables learners to study everywhere. It has two forms：APP or PC, and the two can keep data synchronization. For graduates, they can use it what matter they are in the classroom, library or dormitory; for the middle school students, they can participate in on-line courses after school. And for the people who must go to work, they can acquire knowledge from KEKE English during the lunch break or after work, or just before they go to bed, which all make study become more flexible  
+   &#8195;As an E-learning platform, KEKE English enables learners to study everywhere. It has two forms：APP or PC, and the two can keep data synchronization. For graduates, they can use it what matter they are in the classroom, library or dormitory; for the middle school students, they can participate in on-line courses after school. And for the people who must go to work, they can acquire knowledge from KEKE English during the lunch break or after work, or just before they go to bed, which all make study become more flexible  
    
    >>**1.1.2 Time freedom**   
-  Learners don’t have to study it at a regular time. They can make good use of their fragmented time. For example, when they are waiting in line in cafeteria or when they are waiting for a bus, they can all read English article or remember word. What's more,  if they come across words or sentences that they can't understand in daily life or study, they can use KEKE English to translate it in time.   
+  &#8195;Learners don’t have to study it at a regular time. They can make good use of their fragmented time. For example, when they are waiting in line in cafeteria or when they are waiting for a bus, they can all read English article or remember word. What's more,  if they come across words or sentences that they can't understand in daily life or study, they can use KEKE English to translate it in time.   
    >>**1.2 Suggestion**  
    //在这里写建议
  
  >**2 Knowledge，Skill and Attitude**    
    >>**2.1 Analysis**  
-   Ubiquitous learning is an important way of learning in life-long learning society. The development of information technology provides a broader space for ubiquitous learning[1]. More and more people tend to adopt E-learning to achieve life-long learning. Informal learning communities based on network can solve the problem existing in traditional learning, such as time and space limited, using resources difficulty[2]. 
+   &#8195;Ubiquitous learning is an important way of learning in life-long learning society. The development of information technology provides a broader space for ubiquitous learning[1]. More and more people tend to adopt E-learning to achieve life-long learning. Informal learning communities based on network can solve the problem existing in traditional learning, such as time and space limited, using resources difficulty[2]. 
 Learners are pleased to learn in an informal learning environment that is not limited by time or place. To meet learner’s needs best, KEKE English has made some efforts and it has great advantages in learning environment, mainly including space flexible, time freedom.  
 
    >>**2.1.1 Space flexible**   
-   As an E-learning platform, KEKE English enables learners to study everywhere. It has two forms：APP or PC, and the two can keep data synchronization. For graduates, they can use it what matter they are in the classroom, library or dormitory; for the middle school students, they can participate in on-line courses after school. And for the people who must go to work, they can acquire knowledge from KEKE English during the lunch break or after work, or just before they go to bed, which all make study become more flexible  
+   &#8195;As an E-learning platform, KEKE English enables learners to study everywhere. It has two forms：APP or PC, and the two can keep data synchronization. For graduates, they can use it what matter they are in the classroom, library or dormitory; for the middle school students, they can participate in on-line courses after school. And for the people who must go to work, they can acquire knowledge from KEKE English during the lunch break or after work, or just before they go to bed, which all make study become more flexible  
    
    >>**2.1.2 Time freedom**   
-  Learners don’t have to study it at a regular time. They can make good use of their fragmented time. For example, when they are waiting in line in cafeteria or when they are waiting for a bus, they can all read English article or remember word. What's more,  if they come across words or sentences that they can't understand in daily life or study, they can use KEKE English to translate it in time.   
+  &#8195;Learners don’t have to study it at a regular time. They can make good use of their fragmented time. For example, when they are waiting in line in cafeteria or when they are waiting for a bus, they can all read English article or remember word. What's more,  if they come across words or sentences that they can't understand in daily life or study, they can use KEKE English to translate it in time.   
    >>**2.2 Suggestion**  
    //在这里写建议
    
