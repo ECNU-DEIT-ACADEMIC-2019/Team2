@@ -18,14 +18,16 @@
 #### (2)Engagement
 #### There are some common problems existed in E-learning platform, that is the passion and engagement of student will decrease with the time goes by, then gradually give up or lose interest . 
 #### When talking about KEKE English, it encourage users to sign in and learn everyday to earn some more KEKE beans(award). (figure 2)This function can facilitate students’ subjective initiative(主观能动性) and improve their engagement. In addition, ranking list can form more visual images for users to make some comparison with other people and inspire or motivate users to insist.(figure 3)
-<div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/behavior-2.png"  height='500' width='350' > </div> 
-<div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/behavior-3.png"  height='500' width='350' > </div> 
+<div align="center">
+  <img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/behavior-2.png"  height='500' width='350' > 
+<img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/behavior-3.png"  height='500' width='350' > </div> 
 
 #### (3)Learning achievement
 #### Learning achievement is a significant dimension to analyze the effect of E-learning platform. In most cases, learner’s ultimate aim is to acquire some special knowledge or some kind of skills. Therefore, E-learning platform need to monitor or record user’s daily achievement and testing scores to give in-time reflections. 
 #### KEKE English has a very obvious module for users to train and practice, mainly about listening skill and speaking skill. Users can practice their listening skill by watching videos, completing sentence and making multiple choice. The training results would be reflected in-time for users in order to unlock more learning contents. Specifically, the degree of difficulty would increase gradually so that users can reach to higher and higher learning performance with challenges and enjoyments.(figure 4) In addition, KEKE English also offer examination function for users to practice or prepare for real exam.
-<div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/behavior-4.png"  height='500' width='350' > </div> 
-<div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/behavior-5.png"  height='500' width='350'> </div> 
+<div align="center">
+  <img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/behavior-4.png"  height='500' width='350' >
+<img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/behavior-5.png"  height='500' width='350'> </div> 
 
 #### (4) data analysis
 #### According to this figure, it revealed that almost 92% users admitted they could have a good memory after using KEKE English. 75% users felt great enjoyment when finishing some tasks or acquire some knowledge. Most importantly, almost 66% people are quite satisfied with its learning content and context.
@@ -42,17 +44,22 @@
 In this section, we discuss manner and media of KEKE English platform including human-human interaction and human-machine interaction.
 #### (1)	Manner 
 #### When talking about the function of human-human interaction manner of KEKE English, it is important to introduce KEKE teacher app, which is a instructional tutoring system for teachers to arrange assignments, check students’ performance and give in-time reflection. This function support student and teachers to interact deeper by monitoring and reflection. In addition, in the training part, users can express their view and opinions after watching a report or video and share it in community. Moreover, in the exam-preparing column, there are many discussion group, users can find a suitable group to share their problems, experience and own opinions, in the meantime, they also can inspire and monitor each other.
-<div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/interaction-1.png"  height='500' width='350'> </div> 
-<div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/interaction-2.png"  height='500' width='350'> </div> 
-<div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/interaction-3.png"  height='500' width='350'> </div> 
+<div align="center">
+  <img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/interaction-1.png"  height='500' width='350'> 
+<img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/interaction-2.png"  height='500' width='350'> 
+<img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/interaction-3.png"  height='500' width='350'> </div> 
 
 
 #### Except the interaction between human and human, we also need to know the manner of human-machine. Most of the English learning platform include the function of speech recognition, so that it can support users to practice their spoken English. KEKE English also support users to train their speaking skills by repeatedly speaking out what they heard.
+<div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/interaction-4.png"  height='500' width='350'> </div> 
+
 #### (2)	Media
 #### KEKE English has various of interactive media supporting user’s listening, writing and speaking skills. People can find any types of learning resource, like English video, radio, broadcasting station, real time news, TV music, simulated examination etc. all of these interaction media are integrated and classified clearly into different types, so that people can make a quick decision about what and how to learn.
+<div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/interaction-5.png"  height='500' width='350'> </div> 
+
 #### data analysis
 #### we can see from this figure, almost 50% people prefer ebooks and reading articles when using KEKE English platform, and then entertainment factors are secondly preferred options, mainly include talk show, speech, and documentary. Learning courses are also important for those people who have some long-term goals. While almost no one choose community learning manner for learning, it implicates that KEKE English platform should strengthen the attraction and engagement of users in learning community.
-
+<div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/interaction-6.png" > </div> 
 
 ### Experience 
 
