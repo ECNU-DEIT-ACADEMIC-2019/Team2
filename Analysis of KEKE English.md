@@ -14,7 +14,7 @@ Learners are pleased to learn in an informal learning environment that is not li
 
    >>**1.1.2 Time freedom**   
   Learners don’t have to study it at a regular time. They can make good use of their fragmented time. For example, when they are waiting in line in cafeteria or when they are waiting for a bus, they can all read English article or remember word. What's more,  if they come across words or sentences that they can't understand in daily life or study, they can use KEKE English to translate it in time.   
-<center class="half"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/environment-2.jpg" width="200"/><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/environment-3.jpg" width="200"/></center>
+<div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/environment-2.jpg" height="100" width="200"/><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/environment-3.jpg" height="100" width="200"/></div>
    >>**1.2 Suggestion**  
    //在这里写建议
  
