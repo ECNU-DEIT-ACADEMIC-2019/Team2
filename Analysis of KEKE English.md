@@ -201,7 +201,7 @@ In this section, we discuss manner and media of KEKE English platform including 
    
    
   ----------------------------------------  
->**7 References**  
+>**7 Appendix**  
 [1] 谢乾平.基于手机教育类APP优化学生泛在化学习策略[J].福建基础教育研究,2019(07):136-137.  
 [2] 于莎, 刘奉越. 成人参与在线学习共同体意愿的内在影响机制——基于目标导向行为理论和自我决定理论微视角[J]. 现代远程教育研究, 2018, 155(05):88-96.  
 [3] 马俊臣. 运用学习分析提升远程学习效能感的可行性方式探析[J]. 中国成人教育, 2017(4):18-21.  
@@ -211,3 +211,5 @@ In this section, we discuss manner and media of KEKE English platform including 
 [7]Chien-Hsu Chen,Chun-Yen Huang,Yin-Yu Chou. Effects of augmented reality-based multidimensional concept maps on students’ learning achievement, motivation and acceptance[J]. Universal Access in the Information Society,2019,18(2).  
 [8] 王云楼,张一春.在线学习社区中教师参与度的提升策略[J].教育科学论坛,2018(16):59-62.
 
+  ----------------------------------------  
+>**8 References**  
