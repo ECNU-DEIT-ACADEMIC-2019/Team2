@@ -5,7 +5,7 @@
 >**1 Environment**    
    >>**1.1 Analysis**  
    Ubiquitous learning is an important way of learning in life-long learning society. The development of information technology provides a broader space for ubiquitous learning[1]. More and more people tend to adopt E-learning to achieve life-long learning. Informal learning communities based on network can solve the problem existing in traditional learning, such as time and space limited, using resources difficulty[2]. 
-Learners are pleased to learn in an informal learning environment that is not limited by time or place. To meet learner’s needs best, KEKE English has made some efforts and it has great advantages in learning environment, mainly including space flexible, time freedom. 
+Learners are pleased to learn in an informal learning environment that is not limited by time or place. To meet learner’s needs best, KEKE English has made some efforts and it has great advantages in learning environment, mainly including space flexible, time freedom.  
    >>**1.1.1 Space flexible**   
    As an E-learning platform, KEKE English enables learners to study everywhere. It has two forms：APP or PC, and the two can keep data synchronization. For graduates, they can use it what matter they are in the classroom, library or dormitory; for the middle school students, they can participate in on-line courses after school. And for the people who must go to work, they can acquire knowledge from KEKE English during the lunch break or after work, or just before they go to bed, which all make study become more flexible  
    >>**1.1.2 Time freedom**   
