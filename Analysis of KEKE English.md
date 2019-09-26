@@ -174,7 +174,7 @@ In this section, we discuss manner and media of KEKE English platform including 
    
    >>**5.2 Suggestion**  
   #### &#8195;&#8195; We have also conducted a questionnaire survey on the user's learning experience. The above are the directions in which learners think keke English will reduce their learning experience. Based on these directions and the analysis of our group, the following Suggestions are given.  
-   <div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/experience7.jpg" height="300" width="500" ></div>  
+   <div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/experience7.jpg" height="300" width="800" ></div>  
    
    >>**5.2.1 strengthen the part that users can set**
 #### &#8195;&#8195;  Because each person's learning ability and habits are different, so it is suggested the maximum degree of autonomy, let learners set learning plan, so that learners can control the learning progress by themselves.  
@@ -208,7 +208,7 @@ In this section, we discuss manner and media of KEKE English platform including 
  #### &#8195;&#8195; According to the results of the questionnaire, keke English has a relatively poor design of interaction. Sixty percent had little or no interaction, and those who interacted had a "average" attitude about its function.  
  <div align="center">
   <img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/interact object4.jpg" height="200" width="400" > 
-  <img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/interact object5.jpg" height="200" width="500" ></div>
+  <img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/interact object5.jpg" height="200" width="530" ></div>
    
    >>**6.2 Suggestion**  
    >>**6.2.1 add the function of comment**  
