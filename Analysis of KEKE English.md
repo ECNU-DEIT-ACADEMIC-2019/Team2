@@ -196,9 +196,7 @@ In this section, we discuss manner and media of KEKE English platform including 
   
    >>**6.1.1 human-machine interaction** 
 #### &#8195;&#8195;  The main technology in human-machine interaction is speech recognition, which is used to identify learners' spoken language and give scores. Keke English let students to choose the degree of difficulty, purpose of learning etc, and recommend learning resources suitable for learners’ level according to these options. But for keke English in terms of human-machine interaction, its unilateral output of knowledge is more, and its design of keke English is less.  
- <div align="center">
-  <img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/interact object1.jpg" height="280" width="300" > 
-  <img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/interact object2.jpg" height="280" width="150" ></div>  
+ <div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/interact object1.jpg" height="280" width="300" >         <img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/interact object2.jpg" height="280" width="150" ></div>  
    
    >>**6.1.2 human-human interaction**   
  #### &#8195;&#8195;  In the part of human-human interaction, The main interaction objects are teachers and similar learners in keke English. Interaction with teachers mainly use the function of class. Interaction with learners frequently use discussion groups and dynamic to interact. These functions can simulate the real classroom environment.  
