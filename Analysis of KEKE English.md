@@ -4,40 +4,58 @@
   
 >**1 Environment**    
    >>**1.1 Analysis**  
-   Ubiquitous learning is an important way of learning in life-long learning society. The development of information technology provides a broader space for ubiquitous learning[1]. More and more people tend to adopt E-learning to achieve life-long learning. Informal learning communities based on network can solve the problem existing in traditional learning, such as time and space limited, using resources difficulty[2]. 
-Learners are pleased to learn in an informal learning environment that is not limited by time or place. To meet learner’s needs best, KEKE English has made some efforts and it has great advantages in learning environment, mainly including space flexible, time freedom.  
+   &#8195;&#8195;Ubiquitous learning is an important way of learning in life-long learning society. The development of information technology provides a broader space for ubiquitous learning[1]. More and more people tend to adopt E-learning to achieve life-long learning. Informal learning communities based on network can solve the problem existing in traditional learning, such as time and space limited, using resources difficulty[2]. 
+&#8195;&#8195;Learners are pleased to learn in an informal learning environment that is not limited by time or place. To meet learner’s needs best, KEKE English has made some efforts and it has great advantages in learning environment, mainly including space flexible, time freedom.  
 
    >>**1.1.1 Space flexible**   
-   As an E-learning platform, KEKE English enables learners to study everywhere. It has two forms：APP or PC, and the two can keep data synchronization. For graduates, they can use it what matter they are in the classroom, library or dormitory; for the middle school students, they can participate in on-line courses after school. And for the people who must go to work, they can acquire knowledge from KEKE English during the lunch break or after work, or just before they go to bed, which all make study become more flexible  
+   &#8195;&#8195;As an E-learning platform, KEKE English enables learners to study everywhere. It has two forms：APP or PC, and the two can keep data synchronization. For graduates, they can use it what matter they are in the classroom, library or dormitory; for the middle school students, they can participate in on-line courses after school. And for the people who must go to work, they can acquire knowledge from KEKE English during the lunch break or after work, or just before they go to bed, which all make study become more flexible  
 
 <div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/environment-1.jpg" height="200" width="480" > </div>  
-<div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/environment-7.jpg" height="200" width="480" > </div>  
+<div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/environment-7.jpg" height="180" width="480" > </div>  
 
    >>**1.1.2 Time freedom**   
-  Learners don’t have to study it at a regular time. They can make good use of their fragmented time. For example, when they are waiting in line in cafeteria or when they are waiting for a bus, they can all read English article or remember word. What's more,  if they come across words or sentences that they can't understand in daily life or study, they can use KEKE English to translate it in time.   
+  &#8195;&#8195;Learners don’t have to study it at a regular time. They can make good use of their fragmented time. For example, when they are waiting in line in cafeteria or when they are waiting for a bus, they can all read English article or remember word. What's more,  if they come across words or sentences that they can't understand in daily life or study, they can use KEKE English to translate it in time.   
 
-<div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/environment-2.jpg" height="300" width="150"/>         <img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/environment-3.jpg" height="300" width="150"/></div>  
+<div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/environment-2.jpg" height="280" width="150"/>         <img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/environment-3.jpg" height="280" width="150"/></div>  
 
    >>**1.2 Suggestion**  
-   **Simplify official website:**  As shown in our questionnaire, there are still a certain percentage of people using computer to study. But the official website of KEKE English is too messy, lacking the key points, and just like advertisement.  
+   &#8195;&#8195;**Simplify official website:**  As shown in our questionnaire, there are still a certain percentage of people using computer to study. But the official website of KEKE English is too messy, lacking the key points, and just like advertisement.  
 
-<div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/environment-4.jpg" height="200" width="480" > </div>  
+<div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/environment-4.jpg" height="180" width="480" > </div>  
 <div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/environment-5.jpg" height="200" width="480" > </div>  
 <div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/environment-6.jpg" height="200" width="480" > </div>  
 
  
  >**2 Knowledge，Skill and Attitude**    
    >>**2.1 Analysis**  
-   Ubiquitous learning is an important way of learning in life-long learning society. The development of information technology provides a broader space for ubiquitous learning[1]. More and more people tend to adopt E-learning to achieve life-long learning. Informal learning communities based on network can solve the problem existing in traditional learning, such as time and space limited, using resources difficulty[2]. 
-Learners are pleased to learn in an informal learning environment that is not limited by time or place. To meet learner’s needs best, KEKE English has made some efforts and it has great advantages in learning environment, mainly including space flexible, time freedom.  
-
-   >>**2.1.1 Space flexible**   
-   As an E-learning platform, KEKE English enables learners to study everywhere. It has two forms：APP or PC, and the two can keep data synchronization. For graduates, they can use it what matter they are in the classroom, library or dormitory; for the middle school students, they can participate in on-line courses after school. And for the people who must go to work, they can acquire knowledge from KEKE English during the lunch break or after work, or just before they go to bed, which all make study become more flexible  
+   &#8195;&#8195;E-learning platform designer need to consider what will the learner learn. Maybe they learn knowledge、skills or some attitude. The goals that meet the principle : zone of proximal development, can inspire learning behavior most. Junchen Ma believes that in order to ensure the continuous role of self-efficacy in the online learning process, the setting of learning goals should be clear, specific and moderately difficult[3] The research shows that the teaching objectives setting according to learners' own specific situation can be better to stimulate learners' learning motivation and achieve more better learning effect[4]. Online English learning should recommend suitable learning resources for learners based on their pre-planned time requirements, and aiming at learners' preference for different types of learning resources and adaptability to the difficulty level of learning resources[5].   
+   &#8195;&#8195;As an online English learning platform, KEKE English meets the learning needs of people who are with different position and English levels. As the chart shows, KEKE English is a multi-functional English learning software. And it provides supports for learners to learn language knowledge, language skills, or enhance emotional attitudes of English.  
    
-   >>**2.1.2 Time freedom**   
-  Learners don’t have to study it at a regular time. They can make good use of their fragmented time. For example, when they are waiting in line in cafeteria or when they are waiting for a bus, they can all read English article or remember word. What's more,  if they come across words or sentences that they can't understand in daily life or study, they can use KEKE English to translate it in time.   
+
+   >>**2.1.1 Support language knowledge learning**   
+   &#8195;&#8195;Pronunciation, vocabulary and grammar are the basis and guarantee of mastering a language systematically. For language learning, knowledge mastery refers to learners' mastery of common grammar, vocabulary and discourse structure. Some efforts have been made in language, vocabulary and grammar by KEKE English.  
+   **（1）Various pronunciation exercises**   
+   &#8195;&#8195;KEKE English has rich practice of pronunciation, including“Practice pronunciation every day”、“English pronunciation lecture”、“The word pronunciation of words that easy to read wrong”、“Phonetic symbol formula memory” , etc. That all help students to learn basic English pronunciation more quickly.  
+    **（2）Rich in vocabulary**   
+   &#8195;&#8195;The recitation module of KEKE English has some advantages: rich vocabulary, various recitation mode and interaction. Firstly, KEKE English has much word-book for all grades, such as primary school、CET、Ielts、toefl, etc. Secondly, its word-book is not only a comprehensive collection of words, the interpretation to a word is accurate. And it provides roots、synonyms to help the students to learn.  
+   &#8195;&#8195;In the process of word learning, students tend to be unable to concentrate because of the way of rote learning. Subject teaching makes students understand the specific usage of each word better. KEKE English combines words with micro video based on daily life or popular movies, and most of the video is no more than 3 minutes, which improves the interest and memory of learning words with specific background. Meanwhile, the ways to learn words are comprehensive. There are many ways to memorize words like ‘Chinese choose English’、‘English choose Chinese’、‘fill in sentences’、‘listen to the words then choose the meaning’ and ‘dictation’.  
+    **（2）All-round grammar**   
+    &#8195;&#8195;KEKE English not only contain different language rules, such as tense、voice、 mood、sentence composition、part of speech, but also covers grammar lessons at different ages and stages of knowledge. And those’re all presented it by micro video, which makes learners easy to understand.  
+    
+   
+   >>**2.1.2 Strengthen language skills training**   
+  &#8195;&#8195;Listening, speaking, reading and writing fluently and quickly is a very important skill goal for English learning. But it’s a common problem for most people to speak English bravely. KEKE English sets up some sections to train learners’ skills of listening、speaking、reading and writing, such as ‘Radio listening’, ‘Dictation training’, ‘Situational dialogue’, ‘Dictation training’, ‘Oral English show’, ‘Composition modification’ , etc. In addition, it has user-friendly mode settings, including ‘Intensive listening’, ‘Listen and repeat’, ‘Loop playback’, ‘Speed variation’. And it makes the users speak boldly and read accurately.  
+  &#8195;&#8195;What’s more, KEKE English provides a large amount of daily speaking content and a wide range of listening materials, including news, songs, sports, film and television. It helps learners understand the topic of a discussions and memorize the key points, identify different emotions expressed by different tones, use appropriate intonation and rhythm to express personal intentions in communication through different categories and topic contexts. At the same time, in order to improve the learning competence of listening, speaking, reading and writing, learners are encouraged to accumulate vocabulary of daily life, personal interest, custom, culture of science, community life, such as job, festivals, social etiquette.  
+  
+   >>**2.1.3 Enhance interests in English learning**    
+   &#8195;&#8195;There is a big difference between Chinese and English, the improvement of cognitive level about English culture can promote the sublimation of students’ emotional attitude towards English, thus improving the English learning effect.  Through some interesting sections, like ‘Good morning English’, ‘Summer English reading’, ‘Learn English and travel around the word’, KEKE English increases learners’ knowledge of English culture. In the meanwhile, through ‘the training of nine-word puzzle’, ‘single dictation to eliminate the blind corner’, ‘back words to earn beans for gifts’ and other forms with gamification, KEKE English can stimulate the interests of learning English, so learners can improve their English learning effect.  
+   
    >>**2.2 Suggestion**  
-   //在这里写建议
+   &#8195;&#8195;**(1)**  At the beginning of each level, KEKE English will present all the new words for the user to make they be familiar with before "testing". This should be changed. We think it should let users choose "know" or "don’t know" first, and then decide whether to "cross out" the word or not. Lastly, users can enter the "start test". In this way, users can not only make self-prediction, but also reduce unnecessary recitation and improve efficiency.  
+   &#8195;&#8195;**(2)**  Secondly, the details of the KEKE English words page just contains “Chinese explanations”, “mnemonic”, “example sentence”, which looks slightly boring. It can add “English explanations”, “picture association”, “synonyms” and other functions, so it can make the best memories.  
+   &#8195;&#8195;**(3)**  Thirdly, it should allow two or more types of word books to be studied at the same time. Because many exams timetable are close and need to prepare at the same time.  
+   &#8195;&#8195;**(4)**  English pronunciation practice is only available on the official website, but not on the mobile phone. Nearly 90% of learners are using it on the mobile phone. So it should add this module on the mobile phone.  
+   
    
  >**3 Behaviors**    
    >>**3.1 Analysis**  
