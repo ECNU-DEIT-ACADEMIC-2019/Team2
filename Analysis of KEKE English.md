@@ -2,7 +2,9 @@
   
 >**0 Brief Introduction about KEKE English**   
   #### &#8195;&#8195;KEKE English as an English learning platform products in order to improve English level in all directions, with a rich selection of learning resources, supporting the operation such as offline learning, reciting words, listening, speaking and reading training, also has regularly reminded and learning record synchronization of cloud, clock in sharing, keke beans to exchange gifts, and other functions, from listening, speaking, reading and writing the omni-directional to provide users with a complete English learning experience.
-  <div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/Introduction.jpg" height="180" width="480" > </div>  
+  
+  <div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/Introduction.jpg" height="1700" width="800" > </div>  
+  
   #### &#8195;&#8195;First of all, our group used questionnaire survey the users’ usage scenarios, user experience, learning effect and so on about KEKE English. Then, we combine the questionnaire survey result, from the Environment, Knowledge, Skills, Attitude, behaviors, Interaction, Experience, Interact object six aspects to introduction and analysis KEKE English product, and put forward the corresponding improvements.
  
 
