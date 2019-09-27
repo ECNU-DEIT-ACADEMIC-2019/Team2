@@ -98,7 +98,7 @@
 
 #### (2)Engagement
 #### &#8195;&#8195;There are some common problems existed in E-learning platform, that is the passion and engagement of student will decrease with the time goes by, then gradually give up or lose interest[8] . 
-#### When talking about KEKE English, it encourage users to sign in and learn everyday to earn some more KEKE beans(award). This function can facilitate students’ subjective initiative(主观能动性) and improve their engagement. In addition, ranking list can form more visual images for users to make some comparison with other people and inspire or motivate users to insist.
+####  &#8195;&#8195;When talking about KEKE English, it encourage users to sign in and learn everyday to earn some more KEKE beans(award). This function can facilitate students’ subjective initiative(主观能动性) and improve their engagement. In addition, ranking list can form more visual images for users to make some comparison with other people and inspire or motivate users to insist.
 <div align="center">
   <img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/behavior-2.png"  height='500' width='350' > 
 <img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/behavior-3.png"  height='500' width='350' > </div> 
@@ -116,7 +116,7 @@
 
 >>**3.2 Suggestions**  
 #### &#8195;&#8195;Broaden examination field. At present, KEKE English examination mainly include CET-4, CTE-6, TEM-8 etc. there is a suggestion that they can add more types of examinations like GRE, SAT, TOFEL, IELTS for those who are preparing for going abroad.
-#### Exam comprehensive ability. Comprehensive simulation examinations are really necessary for users who preparing for real context examination. So there is a suggestion for KEKE English to alter their strategies and integrate all types of question to test learner’s comprehensive ability and performance.
+####  &#8195;&#8195;Exam comprehensive ability. Comprehensive simulation examinations are really necessary for users who preparing for real context examination. So there is a suggestion for KEKE English to alter their strategies and integrate all types of question to test learner’s comprehensive ability and performance.
 <div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/behavior-7.png"  height='500' width='350'> </div> 
 
 ----------------------------------------   
