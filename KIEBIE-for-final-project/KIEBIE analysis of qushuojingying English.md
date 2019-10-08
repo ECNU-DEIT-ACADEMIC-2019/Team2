@@ -22,7 +22,7 @@
 
 &#8195;&#8195;Skills: Learners practice in a variety of scenarios such as classroom, office, hospital and so on, to improve their speaking and listening skills.
 
-&#8195;&#8195;Attitude:Learners overcome the psychological pressure of "difficult to speak" and develop a sense of courage in fluent oral communication on nervous occasions. And also learners will build confidence in speaking and learning English.
+&#8195;&#8195;Attitude: Learners overcome the psychological pressure of "difficult to speak" and develop a sense of courage in fluent oral communication on nervous occasions. And also learners will build confidence in speaking and learning English.
 
 #### Experience
 &#8195;&#8195;Through continuous behavioral reinforcement, the memory of pronunciation, mouth shapes and intonation can be acquired, as well as the memory of listening, speaking and watching in different oral communication scenes. In addition, the operational memory can be formed by continuous use of our Qushuojingying software. In addition, learners will feel a sense of accomplishment after completing each level, which further stimulates learners’ interest and motivation to continue to learn oral English.
