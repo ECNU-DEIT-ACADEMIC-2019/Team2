@@ -5,5 +5,5 @@
 ### 3 About optional model
 #### &#8195;&#8195;optional model (自选模式) is based on the theory of constructivism, which emphasize collaboration with real people or machine to build and construct new knowledge. 
 <div align="center">
-  <img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/master/ KIEBIE for final project/image/optional model.png"  height='500' width='350' ></div>
+  <img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/ KIEBIE for final project/image/optional_model.png"  height='500' width='350' ></div>
 
