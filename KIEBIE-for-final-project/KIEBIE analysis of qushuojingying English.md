@@ -19,7 +19,9 @@
 
 #### Knowledge,Skills,Attitude
 &#8195;&#8195;Knowledge: Learners go through various levels, including classroom, office, hospital and other scenarios to learn oral communication vocabulary, special grammar, specific expression sentence patterns, as well as mouth and pronunciation standards.
+
 &#8195;&#8195;Skills: Learners practice in a variety of scenarios such as classroom, office, hospital and so on, to improve their speaking and listening skills.
+
 &#8195;&#8195;Attitude: Learners overcome the psychological pressure of "difficult to speak" and develop a sense of courage in fluent oral communication on nervous occasions. And also learners will build confidence in speaking and learning English.
 
 #### Experience
