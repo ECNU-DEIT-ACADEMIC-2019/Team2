@@ -2,9 +2,9 @@
 ### 1 Brief introduction
 #### &#8195;&#8195;Qushuoyingyu is an application which can satisfy your need of English speaking.
 ### 2 About recruit model
-&#8195;&#8195;Recruit model（闯关模式）is based on the theory of behaviourism. whose process is  that through repeated English conversation training. behavior is firstly affected, and then through frequent intensive training, knowledge and experience are constructed.
-<div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/KIEBIE-for-final-project/images/闯关模式.png " height="600" width="700" > </div>
-#### Environment
+#### &#8195;&#8195;Recruit model（闯关模式）is based on the theory of behaviourism. whose process is  that through repeated English conversation training. behavior is firstly affected, and then through frequent intensive training, knowledge and experience are constructed.
+<div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/KIEBIE-for-final-project/images/闯关模式.png " height="545" width="771" > </div>
+#### Environment  
 &#8195;&#8195;People can complete their learning and practice wherever they are. they only need to use their smart phone and connect with WIFI to download our application. We consider that environment include the factors of interact object and interaction. Because both the interact object and interaction appeared in our typical application and support user to interact.  
 
 #### Interact object
