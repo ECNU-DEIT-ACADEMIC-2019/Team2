@@ -39,4 +39,5 @@
 &#8195;&#8195; everyone has pre-knowledge before they start to use our application to learn. For example, speaking skill and listening skill already existed in their memory.
 #### Interact object
 &#8195;&#8195; In the optional mode, users can choose to interact with real people or machine, so there are human-human interact object or human-machine interact object.
-
+#### Experience
+&#8195;&#8195; Within the interaction and communication process, users can produce some experience like feeling of communication and collaboration with co-peer, which would integrate with their pre-knowledge and memory to impact their next interaction and collaboration process.
