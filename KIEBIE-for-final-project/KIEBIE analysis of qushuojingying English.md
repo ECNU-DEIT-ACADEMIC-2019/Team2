@@ -35,3 +35,8 @@
 
 #### Environment
 &#8195;&#8195; People can complete their learning and practice wherever they are. they only need to use their smart phone and connect with WIFI to download our application. We consider that environment include the factors of interact object and interaction. Because both the interact object and interaction appeared in our typical application and support user to interact.
+#### About user
+&#8195;&#8195; everyone has pre-knowledge before they start to use our application to learn. For example, speaking skill and listening skill already existed in their memory.
+#### Interact object
+&#8195;&#8195; In the optional mode, users can choose to interact with real people or machine, so there are human-human interact object or human-machine interact object.
+
