@@ -1,13 +1,14 @@
 ## <center> Analysis of Qushuojingying English </center>
 ### 1 Brief introduction
 #### &#8195;&#8195;Qushuoyingyu is an application which can satisfy your need of English speaking.It is divided into two models, one is the recruit model and the other is the optional model. 
+<div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/KIEBIE-for-final-project/images/application's%20framework.png" height="545" width="771" > </div>  
 
 &#8195;&#8195;In the recruit model, the user first needs to select a practical situation in spoken English, such as a supermarket, a hospital, a company, a school or a bus stop or any other situations. After the situation selection, the user can conduct an English conversation with the machine as if they were in that place. Based on the users' spoken performance, this application will give them a score. It is like an exam. If their score is high enough, they pass the exam and get an access to the human to human mode. His spoken partner’s level is well-matched with him. Unluckily, if they fail, they will practice with the machine one more time. 
 
 &#8195;&#8195;In the optional model, it is divided into two modes which are the human to human mode and the human-machine mode.
 ### 2 About recruit model
 #### &#8195;&#8195;Recruit model（闯关模式）is based on the theory of behaviourism. whose process is  that through repeated English conversation training. behavior is firstly affected, and then through frequent intensive training, knowledge and experience are constructed.
-<div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/KIEBIE-for-final-project/images/闯关模式.png " height="545" width="771" > </div>  
+<div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/KIEBIE-for-final-project/images/闯关模式.png " height="600" width="771" > </div>  
 
 #### Environment  
 &#8195;&#8195;Learners can start and complete their learning and practice wherever or whenever they want in recruit model by Qushuojingying application. They just need to use their smart phone and connect with WIFI to download our Qushuojingying application. We consider that environment include the factors of interact object and interaction. Because both of the interact object and interaction appeared in our typical application and support user to interact.  
