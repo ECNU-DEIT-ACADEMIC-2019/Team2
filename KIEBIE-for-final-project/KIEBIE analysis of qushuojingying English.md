@@ -32,3 +32,6 @@
 ### 3 About optional model
 #### &#8195;&#8195;optional model (自选模式) is based on the theory of constructivism, which emphasize collaboration with real people or machine to build and construct new knowledge. 
 <div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/KIEBIE-for-final-project/images/optional-model.png " height="600" width="700" > </div>
+
+#### Environment
+&#8195;&#8195; People can complete their learning and practice wherever they are. they only need to use their smart phone and connect with WIFI to download our application. We consider that environment include the factors of interact object and interaction. Because both the interact object and interaction appeared in our typical application and support user to interact.
