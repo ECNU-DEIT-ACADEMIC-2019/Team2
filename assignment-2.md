@@ -2,6 +2,16 @@
 ### 1 Brief introduction
 #### &#8195;&#8195;Qushuoyingyu is an application which can satisfy your need of English speaking.
 ### 2 About recruit model
+#### Environment
+&#8195;&#8195; Learners can start and complete their learning and practice wherever or whenever they want in recruit model by Qushuojingying application. They just need to use their smart phone and connect with WIFI to download our Qushuojingying application. We consider that environment include the factors of interact object and interaction. Because both of the interact object and interaction appeared in our typical application and support user to interact.
+
+#### Knowledge, Skills, Attitude
+&#8195;&#8195;Knowledge: Learners go through various levels, including classroom, office, hospital and other scenarios to learn oral communication vocabulary, special grammar, specific expression sentence patterns, as well as mouth and pronunciation standards.
+
+&#8195;&#8195;Skills: Learners practice in a variety of scenarios such as classroom, office, hospital and so on, to improve their speaking and listening skills.
+
+&#8195;&#8195;Attitude: Learners overcome the psychological pressure of "difficult to speak" and develop a sense of courage in fluent oral communication on nervous occasions. And also learners will build confidence in speaking and learning English.
+
 ### 3 About optional model
 #### &#8195;&#8195;optional model (自选模式) is based on the theory of constructivism, which emphasize collaboration with real people or machine to build and construct new knowledge. 
 #### Knowledge
