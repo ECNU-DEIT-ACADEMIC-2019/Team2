@@ -5,7 +5,8 @@
 
 &#8195;&#8195;In the recruit model, the user first needs to select a practical situation in spoken English, such as a supermarket, a hospital, a company, a school or a bus stop or any other situations. After the situation selection, the user can conduct an English conversation with the machine as if they were in that place. Based on the users' spoken performance, this application will give them a score. It is like an exam. If their score is high enough, they pass the exam and get an access to the human to human mode. His spoken partner’s level is well-matched with him. Unluckily, if they fail, they will practice with the machine one more time. 
 
-&#8195;&#8195;In the optional model, it is divided into two modes which are the human to human mode and the human-machine mode. In human to human mode, this application has a function of communicating with foreign teachers, which is a paid function. We can also choose the free one, , selecting a communication situation such as hospital, and matching a partner to communication.
+&#8195;&#8195;In the optional model, it is divided into two modes which are the human to human mode and the human-machine mode. In human to human mode, this application has a function of communicating with foreign teachers, which is a paid function. We can also choose the free one, , selecting a communication situation such as hospital, and matching a partner to communication. In order to learn English more freely, you can also select to practice with machine.
+
 ### 2 About recruit model
 #### &#8195;&#8195;Recruit model（闯关模式）is based on the theory of behaviourism. whose process is  that through repeated English conversation training. behavior is firstly affected, and then through frequent intensive training, knowledge and experience are constructed.
 <div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/KIEBIE-for-final-project/images/闯关模式.png " height="600" width="771" > </div>  
