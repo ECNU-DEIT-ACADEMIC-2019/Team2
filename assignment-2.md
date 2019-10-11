@@ -1,8 +1,10 @@
 ## <center> Analysis of Qushuojingying English </center>
 ### 1 Brief introduction
-#### &#8195;&#8195;Qushuoyingyu is an application which can satisfy your need of English speaking.
+#### &#8195;&#8195;Qushuoyingyu is an application which can satisfy your need of English speaking. It is divided into two models, one is the recruit model and the other is the optional model. 
+
+
 ### 2 About recruit model
-#### &#8195;&#8195;Recruit model（闯关模式）is based on the theory of behaviourism. whose process is  that through repeated English conversation training. behavior is firstly affected, and then through frequent intensive training, knowledge and experience are constructed.
+#### &#8195;&#8195;Recruit model（闯关模式）is based on the theory of behaviourism. whose process is  that through repeated English conversation training. Behavior is firstly affected, and then through frequent intensive training, knowledge and experience are constructed.
 <div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/KIEBIE-for-final-project/images/闯关模式.png " height="600" width="771" > </div>  
 
 #### Environment  
