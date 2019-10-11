@@ -32,6 +32,16 @@
 
 ### 3 About optional model
 #### &#8195;&#8195;optional model (自选模式) is based on the theory of constructivism, which emphasize collaboration with real people or machine to build and construct new knowledge. 
+<div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/KIEBIE-for-final-project/images/optional-model.png " height="600" width="700" > </div>
+
+#### Environment
+&#8195;&#8195; People can complete their learning and practice wherever they are. they only need to use their smart phone and connect with WIFI to download our application. We consider that environment include the factors of interact object and interaction. Because both the interact object and interaction appeared in our typical application and support user to interact.
+#### About user
+&#8195;&#8195; everyone has pre-knowledge before they start to use our application to learn. For example, speaking skill and listening skill already existed in their memory.
+#### Interact object
+&#8195;&#8195; In the optional mode, users can choose to interact with real people or machine, so there are human-human interact object or human-machine interact object.
+#### Experience
+&#8195;&#8195; Within the interaction and communication process, users can produce some experience like feeling of communication and collaboration with co-peer, which would integrate with their pre-knowledge and memory to impact their next interaction and collaboration process.
 #### Knowledge
 &#8195;&#8195; In the dialogue mode of human-to-human, learners can choose scenarios and set specific roles independently, which creates conditions for learners' knowledge accumulation and skill upgrading, such as English speaking ability , cooperative skills, communication skills, problem solving skills, creativity and critical thinking skills. Pre-knowledge and Social interaction (including Interactive process, interactive experience, knowledge interaction) are the key elements of knowledge meaning construction. Based on the existing knowledge and experience in Oral English practice, learners re-understand and re-construct the meaning of knowledge in the process of social interaction, so as to construct new knowledge.  
 #### Behavior  
