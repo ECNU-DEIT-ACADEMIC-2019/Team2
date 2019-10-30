@@ -6,7 +6,7 @@
 
 
 
->**1 Confidence_Intervals Sheet**   
+>**2 Confidence_Intervals Sheet**   
 
 #### &nbsp;&nbsp;&nbsp;&nbsp;When the Confidence level is equal to 95%, the corresponding Z value is 1.96. The calculation formula of standard error is SE=(Std.Dev.)/√N ，Confidence is equal to SE\*1.96, and Confidence interval is equal to mean-confidence to Mean+Confidence.
 
