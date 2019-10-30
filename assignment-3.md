@@ -16,7 +16,24 @@ For example, in Item1 of the first line of Confidence_Intervals Sheet, if the co
 
 #### Answer_Distributions Sheet
 
-In Answer_Distributions Sheet, mostly in 4 or 5 points, in the slow / fast, not interesting / interesting, boring / exciting aspect, the number of negative evaluation is more.
+&nbsp;&nbsp;&nbsp;&nbsp;In Answer_Distributions Sheet, mostly in 4 or 5 points, in the slow / fast, not interesting / interesting, boring / exciting aspect, the number of negative evaluation is more.
+
+<img src="./images/Answer_Distributions1.png" />
+
+<img src="./images/Answer_Distributions2.png" />
+
+&nbsp;&nbsp;&nbsp;&nbsp;Similarly, the number of people who made positive evaluations was higher in areas that were impractical / practical, obstructive / supportive, inferior / valuable.
+
+<img src="./images/Answer_Distributions3.png" />
+
+<img src="./images/Answer_Distributions4.png" />
+
+<img src="./images/Answer_Distributions5.png" />
+
+&nbsp;&nbsp;&nbsp;&nbsp;It can be seen that the user experience of daxia school is not very good, but it can provide help for learning in terms of functionality. If more attention is paid to user experience, daxia school will be more perfect.
+
+
+
 
 
 
