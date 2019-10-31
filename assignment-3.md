@@ -34,5 +34,7 @@
 #### &nbsp;&nbsp;&nbsp;&nbsp;In Inconsistencies sheet, the detect Suspicious Data can detect such more or less random or not serious answers because not all participants will answer all items seriously. In a participant's questionnaire, in the same dimension, if the best evaluation minus the worst evaluation score is higher than 3, it means that the participant's answer in this dimension is not serious.
 #### &nbsp;&nbsp;&nbsp;&nbsp;In our questionnaire data, one person did not answer seriously in three dimensions. Three people did not answer seriously in two dimensions. It is indicated that most of the participants were very serious about this questionnaire.
 
+>**5 Sample_size**
+#### &nbsp;&nbsp;&nbsp;&nbsp;The Sample_size sheet can give the minimum sample number of our questionnaire under certain precision and confidence interval according to the standard deviation. 
 
 
