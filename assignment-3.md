@@ -30,7 +30,8 @@
 
 #### &nbsp;&nbsp;&nbsp;&nbsp;It can be seen that the user experience of daxia school is not very good, but it can provide help for learning in terms of functionality. If more attention is paid to user experience, daxia school will be more perfect.
 
-
+>**4 Inconsistencies**
+#### &nbsp;&nbsp;&nbsp;&nbsp;in Inconsistencies sheet, 
 
 
 
