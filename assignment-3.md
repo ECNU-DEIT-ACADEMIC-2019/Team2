@@ -37,4 +37,5 @@
 >**5 Sample_size**
 #### &nbsp;&nbsp;&nbsp;&nbsp;The Sample_size sheet can give the minimum sample number of our questionnaire under certain precision and confidence interval according to the standard deviation. The precision refers to the deviation between true scale mean in the population and the estimated scale mean from the sample. The confidence interval refers to interval estimate of a population parameter and is used to indicate the reliability of an estimate. The standard deviation refers to the square root of the variance.
 #### &nbsp;&nbsp;&nbsp;&nbsp;Our sample size is 30, and confidence interval is calculated to be 95%. The precision is 0.5.
+#### &nbsp;&nbsp;&nbsp;&nbsp;The value in the population is the value from the sample plus or minus 0.5.
 
