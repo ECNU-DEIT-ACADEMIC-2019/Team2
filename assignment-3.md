@@ -35,6 +35,6 @@
 #### &nbsp;&nbsp;&nbsp;&nbsp;In our questionnaire data, one person did not answer seriously in three dimensions. Three people did not answer seriously in two dimensions. It is indicated that most of the participants were very serious about this questionnaire.
 
 >**5 Sample_size**
-#### &nbsp;&nbsp;&nbsp;&nbsp;The Sample_size sheet can give the minimum sample number of our questionnaire under certain precision and confidence interval according to the standard deviation. 
+#### &nbsp;&nbsp;&nbsp;&nbsp;The Sample_size sheet can give the minimum sample number of our questionnaire under certain precision and confidence interval according to the standard deviation. The precision refers to the deviation between true scale mean in the population and the estimated scale mean from the sample. 
 
 
