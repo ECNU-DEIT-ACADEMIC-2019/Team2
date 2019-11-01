@@ -39,3 +39,12 @@
 #### &nbsp;&nbsp;&nbsp;&nbsp;Our sample size is 30, and confidence interval is calculated to be 95%. The precision is 0.5.
 #### &nbsp;&nbsp;&nbsp;&nbsp;The value in the population is the value from the sample plus or minus 0.5, and we have a 95% probability that the true value in the population is within this interval.
 
+>**6 Scale_Consistency**
+#### &nbsp;&nbsp;&nbsp;&nbsp;Judgment criteria: there is no unified standard to determine how big the value of the reliability coefficient should be. However, it is generally believed that if the reliability coefficient is above 0.9, the reliability is very well. The reliability coefficient is acceptable at 0.8-0.9. At 0.7-0.8, the scale does not lose its value. But if the coefficient below 0.7 indicates a change.  
+#### &nbsp;&nbsp;&nbsp;&nbsp;In this analysis, the scale was judged to have reliability based on the alpha value greater than 0.7.  
+#### &nbsp;&nbsp;&nbsp;&nbsp;Alpha coefficient and Guttmans Lambda2 coefficient can both be used to measure the reliability of the scale, and there is little difference in this analysis. In the six dimensions, the two coefficients above 0.9 of attractiveness indicate that the attractiveness scale has a high reliability. The alpha and lambda2 values of efficiency, dependability, stimulation and novelty are all above 0.8, which proves that the problems in a single dimension are highly reliability. However, the Perspicuity alpha value is 0.61, which indicates that it does not meet the criteria of the reliability of the scale and needs to be modified.  
+
+>**7 Benchmark**  
+#### &nbsp;&nbsp;&nbsp;&nbsp;In the chart, we can see data from 18,483 people studied in 401 studies concerning different products (business software, web pages, online stores, social networks). It can be used as a benchmark and compared with the questionnaire data, and then the grade of daxia school relative to other products can be obtained.  
+#### &nbsp;&nbsp;&nbsp;&nbsp;It can be seen from the mean line of the reference graph that all the six dimensions of daxia school are all at the bottom, and there is a big gap with other products. In addition, attractiveness, efficiency, dependability, stimulation and novelty are all in the last layer of the five levels, while Perspicuity is on the penultimate level. It can be seen that daxia school still has considerable space for improvement in these six dimensions.
+
