@@ -1,8 +1,8 @@
 ## Survey on the satisfaction of majoring geography to Daxia platform
+**1 The questionnaire**  
+#### &nbsp;&nbsp;&nbsp;&nbsp;The object we surveyed is the students majoring geography. We have collected 32 questionnaires and only 30 of them are valuable, because two are not majoring in geography.There are 4 males and 26 females, and we can see most of them are senior,Whic is helpful for the research, because senior students have used daxia platform many times.
 
-
-
-
+<img src="./images/Answer_Distributions1.png" />
 
 
 
@@ -47,4 +47,12 @@
 >**7 Benchmark**  
 #### &nbsp;&nbsp;&nbsp;&nbsp;In the chart, we can see data from 18,483 people studied in 401 studies concerning different products (business software, web pages, online stores, social networks). It can be used as a benchmark and compared with the questionnaire data, and then the grade of daxia school relative to other products can be obtained.  
 #### &nbsp;&nbsp;&nbsp;&nbsp;It can be seen from the mean line of the reference graph that all the six dimensions of daxia school are all at the bottom, and there is a big gap with other products. In addition, attractiveness, efficiency, dependability, stimulation and novelty are all in the last layer of the five levels, while Perspicuity is on the penultimate level. It can be seen that daxia school still has considerable space for improvement in these six dimensions.
+
+>**8 Main result**  
+
+>**9 Conclusion**  
+#### &nbsp;&nbsp;&nbsp;&nbsp;The last question is do you want to use daxia platform?the full score is ten, but the research showed it was only 4.1, students majoring geography are unwilling to use it.So,in summary, our team think daxia platform has a full function, but a bad user experience.And if more attention is paid to user experience, Daxia  will be more perfect!
+<img src="./images/Answer_Distributions3.png" />
+
+<img src="./images/Answer_Distributions3.png" />
 
