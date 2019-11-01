@@ -2,9 +2,7 @@
 **1 The questionnaire**  
 #### &nbsp;&nbsp;&nbsp;&nbsp;The object we surveyed is the students majoring geography. We have collected 32 questionnaires and only 30 of them are valuable, because two are not majoring in geography.There are 4 males and 26 females, and we can see most of them are senior,Whic is helpful for the research, because senior students have used daxia platform many times.
 
-<img src="./images/Answer_Distributions1.png" />
-
-
+<div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/assignment-questionnaire1.png"> </div> 
 
 >**2 Confidence_Intervals Sheet**   
 
@@ -52,7 +50,8 @@
 
 >**9 Conclusion**  
 #### &nbsp;&nbsp;&nbsp;&nbsp;The last question is do you want to use daxia platform?the full score is ten, but the research showed it was only 4.1, students majoring geography are unwilling to use it.So,in summary, our team think daxia platform has a full function, but a bad user experience.And if more attention is paid to user experience, Daxia  will be more perfect!
-<img src="./images/Answer_Distributions3.png" />
 
-<img src="./images/Answer_Distributions3.png" />
+<div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/assignment-conclusion1.png"> </div>
+
+<div align="center"><img src="https://github.com/ECNU-DEIT-ACADEMIC-2019/Team2/blob/master/images/assignment-conclusion2.png"> </div>
 
