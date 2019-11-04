@@ -47,7 +47,21 @@
 #### &nbsp;&nbsp;&nbsp;&nbsp;It can be seen from the mean line of the reference graph that all the six dimensions of daxia school are all at the bottom, and there is a big gap with other products. In addition, attractiveness, efficiency, dependability, stimulation and novelty are all in the last layer of the five levels, while Perspicuity is on the penultimate level. It can be seen that daxia school still has considerable space for improvement in these six dimensions.
 
 >**8 Main result**  
+####  &nbsp;&nbsp;&nbsp;&nbsp; As we can see from following table1, mean value of 6 scales are all between 0.8 and -0,8. the highest is perspicuity whose mean value is 0.75(SD=0.98), the lowest are the scale of stimulation and novelty, the mean value of which are both 0.133. thus, we can have a result that users experience of daxia platform from gis (geographic information science) students are neural and modest.
 
+<img src="./images/result1.png" />
+
+####  &nbsp;&nbsp;&nbsp;&nbsp; As it shown in following figure1, we can have a visualized and intuitive description of users experience. But we can’t see the detailed mean value and standard deviation of each scale if we ignore the table1. 
+
+<img src="./images/result2.png" />
+
+####  &nbsp;&nbsp;&nbsp;&nbsp; Let us move into more detailed descriptions of each item.（figure3） Obviously, this figure can give us more direct and clear explanation that why the mean value of 6 scales are below 0.8. for example, the mean value of novelty scale is 0.133. the result is mainly due to users experience of daxia platform are dull, conventional, traditional and conservative.  Thus, this result can give some suggestion for developers and designers to think about how to improve novelty of daxia platform from different items.
+
+<img src="./images/result3.png" /> 
+
+####  &nbsp;&nbsp;&nbsp;&nbsp; The table2 is a statistical description of pragmatic and hedonic quality of daxia platform. The results showed that attractiveness and pragmatic are neural(between -0.8, 0.8), while, the quality of hedonic is lower than pragmatic and attractiveness. That means users thought that daxia platform are less attractive and practical, not to mention its hedonic quality. 
+
+<img src="./images/result4.png" />
 
 **9 Conclusion**  
 #### &nbsp;&nbsp;&nbsp;&nbsp;The last question is do you want to use daxia platform?the full score is ten, but the research showed it was only 4.1, students majoring geography are unwilling to use it.So,in summary, our team think daxia platform has a full function, but a bad user experience.And if more attention is paid to user experience, Daxia  will be more perfect!
